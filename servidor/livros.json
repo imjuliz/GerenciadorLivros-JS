@@ -1,0 +1,82 @@
+[
+  {
+      "id": 1,
+      "nome": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "editora": "Companhia das Letras",
+      "qtdPag": 152,
+      "sinopse": "Uma fábula sobre a luta por poder e suas consequências."
+  },
+  {
+      "id": 2,
+      "nome": "1984",
+      "autor": "George Orwell",
+      "editora": "Harvill Secker",
+      "qtdPag": 328,
+      "sinopse": "Uma distopia sobre vigilância e controle governamental."
+  },
+  {
+      "id": 3,
+      "nome": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "editora": "Agir",
+      "qtdPag": 96,
+      "sinopse": "Uma reflexão sobre o amor, amizade e o que realmente importa."
+  },
+  {
+      "id": 4,
+      "nome": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "editora": "Nova Fronteira",
+      "qtdPag": 256,
+      "sinopse": "Uma obra clássica da literatura brasileira sobre ciúmes e traição."
+  },
+  {
+      "id": 5,
+      "nome": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "editora": "Penguin Classics",
+      "qtdPag": 279,
+      "sinopse": "Um romance sobre amor e primeiras impressões."
+  },
+  {
+      "id": 6,
+      "nome": "Memórias Póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "editora": "Nova Fronteira",
+      "qtdPag": 224,
+      "sinopse": "Um relato humorístico e crítico da vida brasileira no século XIX."
+  },
+  {
+      "id": 7,
+      "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+      "autor": "J.R.R. Tolkien",
+      "editora": "HarperCollins",
+      "qtdPag": 423,
+      "sinopse": "A primeira parte da jornada épica pela Terra Média."
+  },
+  {
+      "id": 8,
+      "nome": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "editora": "Bloomsbury",
+      "qtdPag": 223,
+      "sinopse": "A introdução ao mundo mágico de Harry Potter e Hogwarts."
+  },
+  {
+      "id": 9,
+      "nome": "Capitães da Areia",
+      "autor": "Jorge Amado",
+      "editora": "Companhia das Letras",
+      "qtdPag": 272,
+      "sinopse": "Um grupo de jovens enfrenta desafios em Salvador, Bahia."
+  },
+  {
+      "id": 10,
+      "nome": "A Menina que Roubava Livros",
+      "autor": "Markus Zusak",
+      "editora": "Intrínseca",
+      "qtdPag": 480,
+      "sinopse": "A história emocionante de uma jovem na Alemanha nazista."
+  }
+]
